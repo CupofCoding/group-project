@@ -40,3 +40,9 @@ main h2 {
 .codys-styles {
     background:rgb(92, 149, 235);
 }
+
+.anne-style {
+    color: black;
+    background-color: red;
+    padding: 4px;
+}
